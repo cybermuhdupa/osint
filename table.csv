@@ -2530,6 +2530,7 @@ Identity / Person Search,Email,Skymem,https://www.skymem.info,MetaOSINT,10
 Identity / Person Search,Email,MailTester,https://mailtester.com/testmail.php,MetaOSINT,9
 Identity / Person Search,Email,Analyze Email Header,https://mxtoolbox.com/emailheaders.aspx,MetaOSINT,9
 Identity / Person Search,Email,Google Account Finder (EPIEOS),https://tools.epieos.com/google-account.php,MetaOSINT,9
+Identity / Person Search,Email,Google Account Finder (Predicta Search),https://www.predictasearch.com,MetaOSINT,9
 Identity / Person Search,Email,ThatsThem,https://thatsthem.com/reverse-email-lookup,MetaOSINT,8
 Identity / Person Search,Email,Email Address Validator,https://www.email-validator.net,MetaOSINT,8
 Identity / Person Search,Email,Free email address validator,https://verifalia.com/validate-email,MetaOSINT,7
@@ -2545,6 +2546,7 @@ Identity / Person Search,Email,Email Search Tool by IntelTechniques,https://inte
 Identity / Person Search,Email,Phonebook.cz Email Addresses,https://phonebook.cz,MetaOSINT,6
 Identity / Person Search,Email,Epieos Email and Phone Lookup,https://tools.epieos.com,MetaOSINT,6
 Identity / Person Search,Email,Epieos Tools,https://tools.epieos.com/email.php,MetaOSINT,6
+Identity / Person Search,Email,Predicta Search Email and Phone Lookup,https://www.predictasearch.com,MetaOSINT,6
 Identity / Person Search,Email,Whatismyipaddress.com,https://whatismyipaddress.com/trace-email,MetaOSINT,6
 Identity / Person Search,Email,Email Sherlock,https://www.emailsherlock.com,MetaOSINT,6
 Identity / Person Search,Email,ReverseGenie,http://www.reversegenie.com/email.php,MetaOSINT,5
@@ -2584,6 +2586,7 @@ Identity / Person Search,Email,Email Validator,https://chema.ga/emailvalidator/i
 Identity / Person Search,Email,ContactOut,https://contactout.com,MetaOSINT,3
 Identity / Person Search,Email,Emkei's Fake Mailer,https://emkei.cz,MetaOSINT,3
 Identity / Person Search,Email,Epieos Email Lookup,https://epieos.com,MetaOSINT,3
+Identity / Person Search,Email,Predicta Search Email Lookup,https://predictasearch.com,MetaOSINT,3
 Identity / Person Search,Email,Email Assumptions,https://inteltechniques.com/osint/email.html,MetaOSINT,3
 Identity / Person Search,Email,Leakpeek.com,https://leakpeek.com,MetaOSINT,3
 Identity / Person Search,Email,MXToolbox: Blacklists,https://mxtoolbox.com/blacklists.aspx,MetaOSINT,3
@@ -2661,6 +2664,7 @@ Identity / Person Search,Email,Spy Dialer,https://spydialer.com,MetaOSINT,2
 Identity / Person Search,Email,Synapsint,https://synapsint.com,MetaOSINT,2
 Identity / Person Search,Email,Toofr OSIT,https://toofr.com,MetaOSINT,2
 Identity / Person Search,Email,Epieos (Check Email Usage),https://tools.epieos.com/holehe.php,MetaOSINT,2
+Identity / Person Search,Email,Predicta Search (Check Email Usage),https://www.predictasearch.com,MetaOSINT,2
 Identity / Person Search,Email,Online Email Extractor From Text,https://tools.verifyemailaddress.io/apps/email_extractor,MetaOSINT,2
 Identity / Person Search,Email,Whoisology.com,https://whoisology.com/email,MetaOSINT,2
 Identity / Person Search,Email,Temporary Disposable Email,https://www.crazymailing.com,MetaOSINT,2
@@ -3147,6 +3151,7 @@ Identity / Person Search,Phone Number,Makelia - Public Records Repository,https:
 Identity / Person Search,Phone Number,phonebook.cz,https://phonebook.cz,MetaOSINT,6
 Identity / Person Search,Phone Number,Pipl - Phone Number,https://pipl.com,MetaOSINT,6
 Identity / Person Search,Phone Number,Epieos (Check Phone Usage),https://tools.epieos.com/phone.php,MetaOSINT,6
+Identity / Person Search,Phone Number,Predicta Search (Check Phone Usage),https://www.predictasearch.com,MetaOSINT,6
 Identity / Person Search,Phone Number,WhoCalld,https://whocalld.com,MetaOSINT,6
 Identity / Person Search,Phone Number,Best Phone Lookup,http://phonesearch.us/login.php,MetaOSINT,5
 Identity / Person Search,Phone Number,"Reverse Phone Lookup - Find Name, Address &amp; More For Any Phone Number - Addresses.com",http://www.addresses.com/phone,MetaOSINT,5
@@ -3314,6 +3319,7 @@ Identity / Person Search,Phone Number,Telefonkonyv,https://telefonkonyv.hu,MetaO
 Identity / Person Search,Phone Number,Кто звонил и чей телефонный номер определился,https://telefonnyenomera.ru,MetaOSINT,1
 Identity / Person Search,Phone Number,Temporary Phone Numbers,https://temporary-phone-number.com,MetaOSINT,1
 Identity / Person Search,Phone Number,Google Account Finder (EPIEOS),https://tools.epieos.com/google-account.php,MetaOSINT,1
+Identity / Person Search,Phone Number,Google Account Finder (Predicta Search),https://www.predictasearch.com,MetaOSINT,1
 Identity / Person Search,Phone Number,USPS.com,https://tools.usps.com/go/trackconfirmaction!input.action,MetaOSINT,1
 Identity / Person Search,Phone Number,@Navlys_,https://twitter.com/navlys_,MetaOSINT,1
 Identity / Person Search,Phone Number,Download Profile Picture - WhatsApp Tools,https://watools.io/download-profile-picture,MetaOSINT,1
@@ -4914,6 +4920,7 @@ News & News Verification,News Verification / Disinformation,Free VIN Code Search
 News & News Verification,News Verification / Disinformation,@ CentralOps Free online network tools,https://centralops.net/co,MetaOSINT,1
 News & News Verification,News Verification / Disinformation,@ Gravatar Check Email,https://en.gravatar.com/site/check,MetaOSINT,1
 News & News Verification,News Verification / Disinformation,Epieos,https://epieos.com,MetaOSINT,1
+News & News Verification,News Verification / Disinformation,Predicta Search,https://predictasearch.com,MetaOSINT,1
 News & News Verification,News Verification / Disinformation,Companies and Intellectual Property Commission (CIPC): eServices,https://eservices.cipc.co.za/search.aspx,MetaOSINT,1
 News & News Verification,News Verification / Disinformation,Verification Toolbox,https://firstdraftnews.org/verification-toolbox,MetaOSINT,1
 News & News Verification,News Verification / Disinformation,Full Fact,https://fullfact.org,MetaOSINT,1
@@ -6572,6 +6579,7 @@ Social Media,General & Uncategorized,reddit search,https://redditsearch.io,MetaO
 Social Media,General & Uncategorized,Instagram - SaveIG,https://saveig.com,MetaOSINT,4
 Social Media,General & Uncategorized,Twitter - Tinfoleak,https://tinfoleak.com,MetaOSINT,4
 Social Media,General & Uncategorized,Epieos - Google Account Checker,https://tools.epieos.com/google-account.php,MetaOSINT,4
+Social Media,General & Uncategorized,Predicta Search - Google Account Checker,https://predictasearch.com,MetaOSINT,4
 Social Media,General & Uncategorized,Twitter - Twiangulate,https://twiangulate.com/search,MetaOSINT,4
 Social Media,General & Uncategorized,Twitter - TwiMap,https://twimap.com,MetaOSINT,4
 Social Media,General & Uncategorized,Vine,https://vine.co,MetaOSINT,4
@@ -7147,6 +7155,7 @@ Social Media,LinkedIn,LinkedIn Email Reverse Lookup,https://osint.support/chrome
 Social Media,LinkedIn,FREE LinkedIn Xray Search Tool — Recruitment Geek,https://recruitmentgeek.com/tools/linkedin,MetaOSINT,2
 Social Media,LinkedIn,Mobile-Friendly Test,https://search.google.com/test/mobile-friendly,MetaOSINT,2
 Social Media,LinkedIn,Email to LinkedIn (Epieos),https://tools.epieos.com/linkedin.php,MetaOSINT,2
+Social Media,LinkedIn,Email to LinkedIn (Predicta Search),https://predictasearch.com,MetaOSINT,2
 Social Media,LinkedIn,Wiza.co 5/30/20,https://wiza.co,MetaOSINT,2
 Social Media,LinkedIn,Google Custom Search LinkedIn Search with Refinements,https://www.google.com/cse/publicurl,MetaOSINT,2
 Social Media,LinkedIn,Linkedin People Directory,https://www.linkedin.com/directory/people-a,MetaOSINT,2
@@ -7267,6 +7276,7 @@ Social Media,LinkedIn,LinkedIn X-Ray Search Tool |  SourcinglabServer Error,http
 Social Media,LinkedIn,SourcingLab: Twitter,https://sourcinglab.io/search/twitter spoonbill,MetaOSINT,1
 Social Media,LinkedIn,Linked XP:1/2/23,https://studio.m64.in/linked-xp,MetaOSINT,1
 Social Media,LinkedIn,Epieos (Check Email Usage),https://tools.epieos.com/holehe.php,MetaOSINT,1
+Social Media,LinkedIn,Predicta Search (Check Email Usage),https://www.predictasearch.com,MetaOSINT,1
 Social Media,LinkedIn,Wcurl.io 10/25/20,https://wcurl.io,MetaOSINT,1
 Social Media,LinkedIn,LinkedIn Xray Search Tool,https://www.anantha.co.in/linkedin,MetaOSINT,1
 Social Media,LinkedIn,Superpowers for LinkedIn 5/26/20,https://www.clemensteichmann.com/superpowers-for-linkedin,MetaOSINT,1
@@ -9828,6 +9838,7 @@ Web / Technical / Threat Intelligence,OSINT,SOCRadar | OSINT 101,https://socrada
 Web / Technical / Threat Intelligence,OSINT,Know about OSINT and how it is used,https://telanganatoday.com/know-about-osint-and-how-it-is-used,MetaOSINT,1
 Web / Technical / Threat Intelligence,OSINT,"Why we must nurture positive ethics in “citizen-driven” OSINT | by Tom Jarvis | Jan, 2022 | Medium",https://tompatrickjarvis.medium.com/why-we-must-nurture-positive-ethics-in-citizen-driven-osint-37b946f6e618,MetaOSINT,1
 Web / Technical / Threat Intelligence,OSINT,Epieos Tools - Google Account Finder,https://tools.epieos.com/google-account.php,MetaOSINT,1
+Web / Technical / Threat Intelligence,OSINT,Predicta Search - Google Account Finder,https://www.predictasearch.com,MetaOSINT,1
 Web / Technical / Threat Intelligence,OSINT,TOP OSINT,https://toposint.com,MetaOSINT,1
 Web / Technical / Threat Intelligence,OSINT,OSINT Investigations: Top Tools & Techniques Used by Experts,https://usersearch.org/updates/2022/01/31/osint-investigations-top-tools-techniques-used-by-experts,MetaOSINT,1
 Web / Technical / Threat Intelligence,OSINT,Micah Hoffman's Personal Blog,https://webbreacher.com,MetaOSINT,1
